@@ -1,11 +1,11 @@
 body {
     background-color: white;
+    text-align: center;
 }
 header {
     text-align: center;
 }
 .next-button {
     text-align: center;
-    background-color: red;
-    color: black;
+    background-color: white
 }
