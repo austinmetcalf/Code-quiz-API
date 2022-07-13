@@ -11,4 +11,4 @@ HTML, CSS, Javascript.
 ![screencapture-127-0-0-1-5501-index-html-2022-07-12-18_01_28](https://user-images.githubusercontent.com/107006987/178618456-6bd4730d-b809-4737-8102-097c9ddb7e00.png)
 
 ## Live URL
-https://austinmetcalf.github.io/Password-Generator-Refactor/Develop/index.html
+https://austinmetcalf.github.io/Code-quiz-API/
