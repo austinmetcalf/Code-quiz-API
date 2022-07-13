@@ -1,7 +1,7 @@
 # Code Quiz API
 
 ## Project Description
-The purpose of this project is to create a working password generator.  The project is intended to demonstrate efficient Javascript behind the generator and meet password criteria.  If criteria is not met, appropriate alerts are given to correct user.  Lines 37-39 of the Javascript code are borrowed from Stack overflow.  It was necessary to borrow that as the randomization of characters exceeded my own coding knowledge. 
+The purpose of this project is to create a timed quiz with coding questions.  If questions are answered correctly, the quiz will advance.  If questions are not answered correctly, time is deducted, and you must try again.  The quiz is directed to the end page when timer reaches zero or all questions are answered, whichever comes first.  You may then enter your initials and the score page will pull that information from local storage.  In its entirety there are several pages of HTML, CSS, and JS assembled by me.  Several snippets of code, however, were borrowed from W3schools and stack overflow.
 
 ## Technologies
 HTML, CSS, Javascript.
